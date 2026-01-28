@@ -7,14 +7,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Vertical" Spacing="10">
             <Button x:Name="GreetingButton" 
                     Content="Click me" 
                     Width="150" 
                     Height="50" 
                     Click="GreetingButton_Click"
-                    FontSize="16"
-                    Margin="0,0,0,10"/>
+                    FontSize="16"/>
 
             <Button x:Name="FarewellButton"
                     Content="Tạm biệt"

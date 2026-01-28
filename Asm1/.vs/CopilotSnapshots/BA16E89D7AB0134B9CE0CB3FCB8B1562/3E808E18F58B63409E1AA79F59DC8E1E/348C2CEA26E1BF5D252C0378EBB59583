@@ -25,10 +25,5 @@ namespace Asm1
         {
             MessageBox.Show("xin chào", "Greeting");
         }
-
-        private void FarewellButton_Click(object sender, RoutedEventArgs e)
-        {
-            MessageBox.Show("tạm biệt", "Farewell");
-        }
     }
 }

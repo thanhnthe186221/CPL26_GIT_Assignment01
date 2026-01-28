@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\FPT 26 SPRING\\GIT\\CPL26_GIT_Assignment01\\Asm1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86716672-5570-48AD-A16E-286A8717F8CC}|Asm1\\Asm1.csproj|d:\\fpt 26 spring\\git\\cpl26_git_assignment01\\asm1\\asm1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86716672-5570-48AD-A16E-286A8717F8CC}|Asm1\\Asm1.csproj|solutionrelative:asm1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{86716672-5570-48AD-A16E-286A8717F8CC}|Asm1\\Asm1.csproj|d:\\fpt 26 spring\\git\\cpl26_git_assignment01\\asm1\\asm1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{86716672-5570-48AD-A16E-286A8717F8CC}|Asm1\\Asm1.csproj|solutionrelative:asm1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86716672-5570-48AD-A16E-286A8717F8CC}|Asm1\\Asm1.csproj|d:\\fpt 26 spring\\git\\cpl26_git_assignment01\\asm1\\asm1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86716672-5570-48AD-A16E-286A8717F8CC}|Asm1\\Asm1.csproj|solutionrelative:asm1\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86716672-5570-48AD-A16E-286A8717F8CC}|Asm1\\Asm1.csproj|d:\\fpt 26 spring\\git\\cpl26_git_assignment01\\asm1\\asm1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86716672-5570-48AD-A16E-286A8717F8CC}|Asm1\\Asm1.csproj|solutionrelative:asm1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86716672-5570-48AD-A16E-286A8717F8CC}|Asm1\\Asm1.csproj|d:\\fpt 26 spring\\git\\cpl26_git_assignment01\\asm1\\asm1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86716672-5570-48AD-A16E-286A8717F8CC}|Asm1\\Asm1.csproj|solutionrelative:asm1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,24 +106,50 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\FPT 26 SPRING\\GIT\\CPL26_GIT_Assignment01\\Asm1\\Asm1\\App.xaml",
+              "RelativeDocumentMoniker": "Asm1\\App.xaml",
+              "ToolTip": "D:\\FPT 26 SPRING\\GIT\\CPL26_GIT_Assignment01\\Asm1\\Asm1\\App.xaml",
+              "RelativeToolTip": "Asm1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-28T14:20:32.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\FPT 26 SPRING\\GIT\\CPL26_GIT_Assignment01\\Asm1\\Asm1\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Asm1\\AssemblyInfo.cs",
+              "ToolTip": "D:\\FPT 26 SPRING\\GIT\\CPL26_GIT_Assignment01\\Asm1\\Asm1\\AssemblyInfo.cs",
+              "RelativeToolTip": "Asm1\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:20:31.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\FPT 26 SPRING\\GIT\\CPL26_GIT_Assignment01\\Asm1\\Asm1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Asm1\\MainWindow.xaml",
               "ToolTip": "D:\\FPT 26 SPRING\\GIT\\CPL26_GIT_Assignment01\\Asm1\\Asm1\\MainWindow.xaml",
               "RelativeToolTip": "Asm1\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-01-28T08:01:32.772Z"
+              "WhenOpened": "2026-01-28T08:01:32.772Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\FPT 26 SPRING\\GIT\\CPL26_GIT_Assignment01\\Asm1\\Asm1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Asm1\\MainWindow.xaml.cs",
               "ToolTip": "D:\\FPT 26 SPRING\\GIT\\CPL26_GIT_Assignment01\\Asm1\\Asm1\\MainWindow.xaml.cs",
               "RelativeToolTip": "Asm1\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T08:01:31.132Z",
               "EditorCaption": ""
