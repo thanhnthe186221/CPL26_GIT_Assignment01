@@ -18,8 +18,8 @@
       "AbsoluteMoniker": "D:0:0:{77C1FE71-4CD3-400E-B1FC-1403BF7972BA}|..\\..\\..\\GameBamNut\\GameBamNut.csproj|c:\\users\\thanh\\gamebamnut\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15FA942E-1501-4DA3-A76F-1E35983CF435}|GameDoanSo\\GameDoanSo.csproj|c:\\users\\thanh\\desktop\\cpl26_git_assignment01\\gamedoanso\\gamedoanso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15FA942E-1501-4DA3-A76F-1E35983CF435}|GameDoanSo\\GameDoanSo.csproj|solutionrelative:gamedoanso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\THANH\\Desktop\\CPL26_GIT_Assignment01\\GameDoanSo\\GameDoanSo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameDoanSo\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -109,8 +109,7 @@
               "RelativeToolTip": "..\\..\\..\\GameBamNut\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T07:39:36.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T07:39:36.638Z"
             },
             {
               "$type": "Document",
@@ -120,7 +119,7 @@
               "RelativeDocumentMoniker": "..\\..\\..\\GameBamNut\\Form1.cs",
               "ToolTip": "C:\\Users\\THANH\\GameBamNut\\Form1.cs",
               "RelativeToolTip": "..\\..\\..\\GameBamNut\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAWwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAWwBoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T07:33:51.474Z",
               "EditorCaption": ""
@@ -134,8 +133,7 @@
               "ToolTip": "C:\\Users\\THANH\\GameBamNut\\Form1.resx",
               "RelativeToolTip": "..\\..\\..\\GameBamNut\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-19T07:33:49.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T07:33:49.12Z"
             },
             {
               "$type": "Document",

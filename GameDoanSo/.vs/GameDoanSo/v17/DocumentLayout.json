@@ -29,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -84,22 +84,6 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\THANH\\GameBamNut\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\GameBamNut\\Form1.cs",
-              "ToolTip": "C:\\Users\\THANH\\GameBamNut\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\GameBamNut\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T07:39:38.623Z",
-              "EditorCaption": " [Design]"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
@@ -109,8 +93,7 @@
               "RelativeToolTip": "..\\..\\..\\GameBamNut\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T07:39:36.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T07:39:36.638Z"
             },
             {
               "$type": "Document",
@@ -134,8 +117,7 @@
               "ToolTip": "C:\\Users\\THANH\\GameBamNut\\Form1.resx",
               "RelativeToolTip": "..\\..\\..\\GameBamNut\\Form1.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-01-19T07:33:49.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-19T07:33:49.12Z"
             },
             {
               "$type": "Document",
@@ -160,6 +142,22 @@
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T07:00:51.704Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANH\\GameBamNut\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\GameBamNut\\Form1.cs",
+              "ToolTip": "C:\\Users\\THANH\\GameBamNut\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\GameBamNut\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T07:39:38.623Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
