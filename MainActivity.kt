@@ -16,3 +16,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
+buttonGoodbye.setOnClickListener {
+    Toast.makeText(this, "tạm biệt", Toast.LENGTH_SHORT).show()
+}
