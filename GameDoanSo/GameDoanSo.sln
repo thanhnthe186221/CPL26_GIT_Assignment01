@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameDoanSo", "GameDoanSo\GameDoanSo.csproj", "{15FA942E-1501-4DA3-A76F-1E35983CF435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameBamNut", "..\..\..\GameBamNut\GameBamNut.csproj", "{77C1FE71-4CD3-400E-B1FC-1403BF7972BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15FA942E-1501-4DA3-A76F-1E35983CF435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FA942E-1501-4DA3-A76F-1E35983CF435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15FA942E-1501-4DA3-A76F-1E35983CF435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15FA942E-1501-4DA3-A76F-1E35983CF435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C1FE71-4CD3-400E-B1FC-1403BF7972BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C1FE71-4CD3-400E-B1FC-1403BF7972BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C1FE71-4CD3-400E-B1FC-1403BF7972BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C1FE71-4CD3-400E-B1FC-1403BF7972BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FD3FF80-9A09-4F25-9332-5753498A9799}
+	EndGlobalSection
+EndGlobal
