@@ -1,4 +1,0 @@
-C:\Users\THANH\source\repos\GameDoanSo\GameBamNut\obj\Debug\net8.0-windows\Form1.g.cs
-C:\Users\THANH\source\repos\GameDoanSo\GameBamNut\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\THANH\source\repos\GameDoanSo\GameBamNut\obj\Debug\net8.0-windows\GameBamNut_MarkupCompile.cache
-C:\Users\THANH\source\repos\GameDoanSo\GameBamNut\obj\Debug\net8.0-windows\GameBamNut_MarkupCompile.lref
